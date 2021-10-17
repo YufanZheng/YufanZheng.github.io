@@ -40,7 +40,10 @@
        <tbody>
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <img src="img/test.jpg" alt="b3do" width="160" style="border-style: none">
+              <img src="img/test.jpg" alt="b3do" width="160" height="200" style="border-style: none">
+            </td>
+	    <td style="padding:20px;width:25%;vertical-align:middle">
+              <img src="img/test.jpg" alt="b3do" width="160" height="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
               <a href="https://drive.google.com/file/d/1_S8EQyngbHQrB415o0XkQ4V9SMzdEgWT/view?usp=sharing">
