@@ -7,7 +7,34 @@
 
 # Publications
 
-
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+       <tbody>
+          <tr>
+            <td style="padding:10px;width:50%;vertical-align:middle">
+              <img src="img/paper/zhan2021random.png" alt="zhan2021random" width="200" height="200" style="border-style: none">
+            </td>
+            <td width="50%" valign="middle">
+              <a href="https://ieeexplore.ieee.org/document/9380648/keywords#keywords">
+                <papertitle>Random-Forest-Bagging Broad Learning System with Applications for COVID-19 Pandemic</papertitle>
+              </a>
+	      <br />
+	      <br />
+              <a href="https://scholar.google.com/citations?user=CQjEUkAAAAAJ&hl=en">Choujun Zhan</a>,
+	      <strong>Yufan Zheng</strong>,
+              <a href="https://scholar.google.com/citations?hl=en&user=XEiWEDAAAAAJ">Haijun Zhang</a>,
+              <a href="https://www.researchgate.net/scientific-contributions/Quansi-Wen-2157669220">Quansi Wen</a>
+	      <br />
+	      <br />
+              <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907">IEEE Internet of Things Journal</a>, March 2021
+	      <br />
+	      <br />
+              <p>We combine the bagging strategy and Broad Learning System to develop a Random-forest-Bagging Broad Learning System (RF-Bagging-BLS) approach to forecast the trend of the COVID-19 pandemic. And the proposed model demonstrates superior predictive power over other benchmark models.</p>
+	      <br />
+	      <a href="bib/zhan2021random.bib">bibtex</a>
+            </td>
+          </tr>
+	</tbody>
+</table>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
        <tbody>
@@ -21,11 +48,11 @@
               </a>
 	      <br />
 	      <br />
-              <a href="http://www.eecs.berkeley.edu/%7Eallie/">Choujun Zhan</a>,
+              <a href="https://scholar.google.com/citations?user=CQjEUkAAAAAJ&hl=en">Choujun Zhan</a>,
 	      <strong>Yufan Zheng</strong>,
-              <a href="http://sergeykarayev.com/">Zhikang Lai</a>,
-              <a href="http://www.eecs.berkeley.edu/%7Ejiayq/">Tianyong Hao</a>,
-              <a href="http://www.cs.berkeley.edu/%7Emfritz/">Bing Li</a>
+              <a>Zhikang Lai</a>,
+              <a href="https://dblp.org/pid/81/6701.html">Tianyong Hao</a>,
+              <a>Bing Li</a>
 	      <br />
 	      <br />
               <a href="https://www.springer.com/journal/521">Neural Computing and Applications</a>, August 2020
