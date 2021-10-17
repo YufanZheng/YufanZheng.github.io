@@ -40,12 +40,7 @@
        <tbody>
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
-              <img src="img/test.jpg" alt="b3do" width="160" height="200" style="border-style: none">
-            </td>
-	</tr>
-	<tr>
-	    <td style="padding:20px;width:25%;vertical-align:middle">
-              <img src="img/test.jpg" alt="b3do" width="160" height="200" style="border-style: none">
+              <img src="img/test.jpg" alt="b3do" width="200" height="200" style="border-style: none">
             </td>
 	</tr>
 	<tr>
