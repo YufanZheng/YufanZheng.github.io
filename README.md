@@ -28,10 +28,10 @@
               <a href="http://www.cs.berkeley.edu/%7Emfritz/">Bing Li</a>
 	      <br />
 	      <br />
-              <em>Neural Computing and Applications</em>, August 2020
+              <a href="https://www.springer.com/journal/521">Neural Computing and Applications</a>, August 2020
 	      <br />
 	      <br />
-              <p>We propose a pseudo-coevolutionary simulated annealing (SA) algorithm to identify the parameters of a model integrating the daily intercity migration network, which is constructed from real-world migration records and the Susceptible–Exposed–Infected–Removed model, and use the model to predict the spread of the COVID-19 epidemic in over 300 cities in China.</p>
+              <p>We propose a pseudo-coevolutionary simulated annealing (SA) algorithm to identify the parameters of a model integrating the daily intercity migration network, which is constructed from real-world migration records and the Susceptible–Exposed–Infected–Removed model (SEIR), and use the model to predict the spread of the COVID-19 epidemic in over 300 cities in China.</p>
 	      <br />
 	      <a href="bib/zhan2021identifying.bib">bibtex</a>
             </td>
