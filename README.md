@@ -10,10 +10,10 @@
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
        <tbody>
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:20px;width:40%;vertical-align:middle">
               <img src="img/test.jpg" alt="b3do" width="200" height="200" style="border-style: none">
             </td>
-            <td width="75%" valign="middle">
+            <td width="60%" valign="middle">
               <a href="https://drive.google.com/file/d/1_S8EQyngbHQrB415o0XkQ4V9SMzdEgWT/view?usp=sharing">
                 <papertitle>A Category-Level 3-D Object Dataset: Putting the Kinect to Work</papertitle>
               </a>
