@@ -8,7 +8,7 @@
 ## Publications
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-            <tbody>
+       <tbody>
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <img src="images/B3DO.jpg" alt="b3do" width="160" style="border-style: none">
@@ -33,8 +33,11 @@
               <p>We present a large RGB-D dataset of indoor scenes and investigate ways to improve object detection using depth information.</p>
             </td>
           </tr>
-	  
-	            <tr>
+	</tbody>
+</table>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+       <tbody>
+          <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <img src="images/B3DO.jpg" alt="b3do" width="160" style="border-style: none">
             </td>
@@ -58,9 +61,8 @@
               <p>We present a large RGB-D dataset of indoor scenes and investigate ways to improve object detection using depth information.</p>
             </td>
           </tr>
-</tbody>
-          </table>
-
+	</tbody>
+</table>
 ## Research Experience
 
 ## Awards
