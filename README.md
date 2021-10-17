@@ -1,11 +1,11 @@
 
 
-## About Me
+# About Me
 
 
-## Education
+# Education
 
-## Publications
+# Publications
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
        <tbody>
@@ -63,11 +63,11 @@
           </tr>
 	</tbody>
 </table>
-## Research Experience
+# Research Experience
 
-## Awards
+# Awards
 
-## Talks
+# Talks
 
-## Skills
+# Skills
 
