@@ -21,7 +21,6 @@
               </a>
 	      <br />
 	      <br />
-              <br>
               <a href="http://www.eecs.berkeley.edu/%7Eallie/">Choujun Zhan</a>,
 	      <strong>Yufan Zheng</strong>,
               <a href="http://sergeykarayev.com/">Zhikang Lai</a>,
@@ -29,11 +28,10 @@
               <a href="http://www.cs.berkeley.edu/%7Emfritz/">Bing Li</a>
 	      <br />
 	      <br />
-	      <br>
               <em>Neural Computing and Applications</em>, August 2020
-              <br>
-              <p>We propose a pseudo-coevolutionary simulated annealing (SA) algorithm to identify the parameters of a model integrating the daily intercity migration network, which is constructed from real-world migration records and the Susceptible–Exposed–Infected–Removed model, and use the model to predict the spread of the COVID-19 epidemic in over 300 cities in China.</p>
 	      <br />
+	      <br />
+              <p>We propose a pseudo-coevolutionary simulated annealing (SA) algorithm to identify the parameters of a model integrating the daily intercity migration network, which is constructed from real-world migration records and the Susceptible–Exposed–Infected–Removed model, and use the model to predict the spread of the COVID-19 epidemic in over 300 cities in China.</p>
 	      <br />
 	      <a href="bib/zhan2021identifying.bib">bibtex</a>
             </td>
