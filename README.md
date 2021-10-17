@@ -42,9 +42,13 @@
             <td style="padding:20px;width:25%;vertical-align:middle">
               <img src="img/test.jpg" alt="b3do" width="160" height="200" style="border-style: none">
             </td>
+	</tr>
+	<tr>
 	    <td style="padding:20px;width:25%;vertical-align:middle">
               <img src="img/test.jpg" alt="b3do" width="160" height="200" style="border-style: none">
             </td>
+	</tr>
+	<tr>
             <td width="75%" valign="middle">
               <a href="https://drive.google.com/file/d/1_S8EQyngbHQrB415o0XkQ4V9SMzdEgWT/view?usp=sharing">
                 <papertitle>A Category-Level 3-D Object Dataset: Putting the Kinect to Work</papertitle>
