@@ -66,6 +66,37 @@
 	</tbody>
 </table>
 
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+       <tbody>
+          <tr>
+            <td style="padding:10px;width:50%;vertical-align:middle">
+              <img src="img/paper/wu2019movie.png" alt="wu2019movie" width="200" height="200" style="border-style: none">
+            </td>
+            <td width="50%" valign="middle">
+              <a href="https://ieeexplore.ieee.org/document/8958631">
+                <papertitle>Movie box office prediction based on ensemble learning</papertitle>
+              </a>
+	      <br />
+	      <br />
+              <a>Shuangyan Wu</a>,
+	      <strong>Yufan Zheng</strong>,
+              <a>Zhikang Lai</a>,
+              <a>Fujian Wu</a>,
+              <a href="https://scholar.google.com/citations?user=CQjEUkAAAAAJ&hl=en">Choujun Zhan</a>,
+	      <br />
+	      <br />
+              <a href="https://ieeexplore.ieee.org/xpl/conhome/8954856/proceeding">IEEE Symposium on Product Compliance Engineering - Asia (ISPCE-CN)</a>, January 2020
+	      <br />
+	      <br />
+              <p>We built a predictive model using film data from 1980 to 2018 and machine learning methods, including the Ensemble learning algorithm.</p>
+	      <br />
+	      <a href="bib/wu2019movie.bib">bibtex</a>
+            </td>
+          </tr>
+	</tbody>
+</table>
+
+
 # Research Experience
 
 # Awards
